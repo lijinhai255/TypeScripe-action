@@ -95,9 +95,9 @@ function add(x, y) {
 - [ ] this is an incomplete item
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
+First Header | Second Header | Second Header
+------------ | -------------  | ------------- 
+Content from cell 1 | Content from cell 2|1212121
 Content in the first column | Content in the second column
 
 30^th^
